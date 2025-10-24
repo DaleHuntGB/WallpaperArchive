@@ -1,40 +1,40 @@
 # Wallpapers Preview
 
-### Beautiful Sunset
-![](Beautiful Sunset.png)
+### BeautifulSunset
+![](BeautifulSunset.png)
 
-### Cold Forest
-![](Cold Forest.png)
+### ColdForest
+![](ColdForest.png)
 
-### Cute Village
-![](Cute Village.png)
+### CuteVillage
+![](CuteVillage.png)
 
 ### Hogwarts
 ![](Hogwarts.png)
 
-### Iguaza Falls
-![](Iguaza Falls.png)
+### IguazaFalls
+![](IguazaFalls.png)
 
-### Majestic Lion
-![](Majestic Lion.png)
+### MajesticLion
+![](MajesticLion.png)
 
-### Peaceful Sea
-![](Peaceful Sea.png)
+### PeacefulSea
+![](PeacefulSea.png)
 
-### Takayama, Japan
-![](Takayama, Japan.png)
+### Takayama,Japan
+![](Takayama,Japan.png)
 
-### The Storr
-![](The Storr.png)
+### TheStorr
+![](TheStorr.png)
 
-### Tufa Mono Lake
-![](Tufa Mono Lake.png)
+### TufaMonoLake
+![](TufaMonoLake.png)
 
-### Whale Shark
-![](Whale Shark.png)
+### WhaleShark
+![](WhaleShark.png)
 
-### Lijiang, China
-![](Lijiang, China.jpeg)
+### LijiangChina
+![](LijiangChina.jpeg)
 
 ### Mountain Side View
 ![](Mountain Side View.jpeg)
