@@ -15,8 +15,14 @@
 ### IguazaFalls
 ![](IguazaFalls.png)
 
+### LijiangChina
+![](LijiangChina.png)
+
 ### MajesticLion
 ![](MajesticLion.png)
+
+### MountainSide
+![](MountainSide.png)
 
 ### PeacefulSea
 ![](PeacefulSea.png)
@@ -32,10 +38,4 @@
 
 ### WhaleShark
 ![](WhaleShark.png)
-
-### LijiangChina
-![](LijiangChina.jpeg)
-
-### Mountain Side View
-![](Mountain Side View.jpeg)
 
