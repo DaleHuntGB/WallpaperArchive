@@ -21,8 +21,8 @@
 ### PeacefulSea
 ![](PeacefulSea.png)
 
-### Takayama,Japan
-![](Takayama,Japan.png)
+### TakayamaJapan
+![](TakayamaJapan.png)
 
 ### TheStorr
 ![](TheStorr.png)
