@@ -3,6 +3,9 @@
 ### BeautifulSunset
 ![](BeautifulSunset.png)
 
+### CitySkyline
+![](CitySkyline.png)
+
 ### ColdForest
 ![](ColdForest.png)
 
@@ -26,6 +29,9 @@
 
 ### PeacefulSea
 ![](PeacefulSea.png)
+
+### SamuraiSunset
+![](SamuraiSunset.png)
 
 ### TakayamaJapan
 ![](TakayamaJapan.png)
