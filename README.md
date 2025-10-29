@@ -6,6 +6,9 @@
 ### CitySkyline
 ![](CitySkyline.png)
 
+### Coastline
+![](Coastline.png)
+
 ### ColdForest
 ![](ColdForest.png)
 
@@ -20,6 +23,9 @@
 
 ### IguazaFalls
 ![](IguazaFalls.png)
+
+### IslandGetaway
+![](IslandGetaway.png)
 
 ### LichKing
 ![](LichKing.png)
