@@ -1,0 +1,30 @@
+name: Post to Discord
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Find images
+        id: images
+        run: |
+          files=$(git diff --name-only HEAD^ HEAD | grep -E '\.(png|jpg|jpeg|gif)$' || true)
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          echo "$files" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Post to Discord
+        if: steps.images.outputs.files != ''
+        run: |
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            url="https://raw.githubusercontent.com/${{ github.repository }}/main/$file"
+            curl -H "Content-Type: application/json" \
+              -d "{\"embeds\":[{\"title\":\"New Wallpaper Uploaded\",\"image\":{\"url\":\"$url\"},\"url\":\"https://github.com/${{ github.repository }}/commit/${{ github.sha }}\"}]}" \
+              ${{ secrets.DISCORD_WEBHOOK }}
+          done <<< "${{ steps.images.outputs.files }}"
