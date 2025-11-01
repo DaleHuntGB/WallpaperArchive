@@ -1,4 +1,5 @@
-# Wallpapers Preview
+# Wallpapers
+A collection of my wallpapers.
 
 ### ArchLinux
 ![](ArchLinux.png)
