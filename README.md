@@ -18,6 +18,12 @@
 ### CuteVillage
 ![](CuteVillage.png)
 
+### CyberpunkSoldier
+![](CyberpunkSoldier.png)
+
+### GlowingArch
+![](GlowingArch.png)
+
 ### GlowingKatana
 ![](GlowingKatana.png)
 
@@ -44,6 +50,9 @@
 
 ### MountainSide
 ![](MountainSide.png)
+
+### OrangeClouds
+![](OrangeClouds.png)
 
 ### PeacefulSea
 ![](PeacefulSea.png)
